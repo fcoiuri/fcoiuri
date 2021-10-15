@@ -43,10 +43,10 @@
 <a href="https://github-readme-stats.vercel.app/api?username=fcoiuri&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=fcoiuri&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fcoiuri&hide=php&theme=tokyonight">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcoiuri&hide=php&theme=tokyonight" />
+</a>
 <a href="https://github-readme-streak-stats.herokuapp.com?user=fcoiuri&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=fcoiuri&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fcoiuri&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcoiuri&hide=php&theme=tokyonight" />
 </a>
 </div>
