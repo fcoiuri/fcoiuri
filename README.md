@@ -35,7 +35,7 @@
 
 </p>
 
-<br />
+<br/>
 
 ## :trophy: My Github Stats:
 
