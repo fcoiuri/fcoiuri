@@ -7,7 +7,7 @@
 ## 🎓 I'm a Computer Engineering Student at the Federal Institute of Education, Science and Technology of Ceará
 
 - 🔭 I’m currently developing a mobile app with Glideapps.
-- 🌱 I’m currently learning Angular. 
+- 🌱 I’m currently learning React. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love playing computer games and watch football ⚽.
@@ -24,6 +24,7 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://reactjs.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://angular.io" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px"></a>
