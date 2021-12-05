@@ -6,7 +6,6 @@
 
 ## 🎓 I'm a Computer Engineering Student at the Federal Institute of Education, Science and Technology of Ceará
 
-- 🔭 I’m currently developing a mobile app with Glideapps.
 - 🌱 I’m currently learning React. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
