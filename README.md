@@ -6,8 +6,8 @@
 
 ## 🎓 I'm a Computer Engineering Student at the Federal Institute of Education, Science and Technology of Ceará
 
-- 🌱 I’m currently learning **React**;
-- 👯 I’m looking to collaborate with anyone on any project;
+- 👨‍💻 I’m currently working with **React**;
+- 🌱  I’m currently learning **Next.js**;
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love playing computer games and watch football ⚽.
 
